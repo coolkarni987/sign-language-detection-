@@ -36,8 +36,7 @@ The model is trained on a labeled dataset of hand signs, preprocessed to improve
 Clone the repository and install dependencies:
 
 bash
-Copy
-Edit
+
 git clone https://github.com/coolkarni987/Sign-Language-Detection.git
 cd Sign-Language-Detection
 
@@ -56,6 +55,4 @@ pyautogui
 
 
 bash
-Copy
-Edit
 python sign_language_detection.py
